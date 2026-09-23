@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(222, 168, 102);
+}
+
+div{
+    padding: 20px;
+    color: red;
+    background-color: rgb(15, 121, 121);
+}
+div{
+    color: rgb(255, 0, 187);
+}
